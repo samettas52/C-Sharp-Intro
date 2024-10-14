@@ -1,0 +1,14 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\bin\Debug\Arrays.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\bin\Debug\Arrays.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\obj\Debug\Arrays.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Arrays\obj\Debug\Arrays.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\bin\Debug\Arrays.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\bin\Debug\Arrays.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\obj\Debug\Arrays.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Arrays\obj\Debug\Arrays.pdb

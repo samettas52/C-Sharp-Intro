@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\bin\Debug\ders4.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\bin\Debug\ders4.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\bin\Debug\ders4.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\obj\Debug\ders4.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\obj\Debug\ders4.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\obj\Debug\ders4.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\ders4\obj\Debug\ders4.pdb

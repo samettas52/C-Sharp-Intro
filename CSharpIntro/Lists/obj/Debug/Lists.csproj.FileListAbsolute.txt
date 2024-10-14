@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\bin\Debug\Lists.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\bin\Debug\Lists.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\bin\Debug\Lists.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\obj\Debug\Lists.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Lists\obj\Debug\Lists.pdb

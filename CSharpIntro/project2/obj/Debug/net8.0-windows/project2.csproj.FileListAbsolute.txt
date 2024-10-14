@@ -1,0 +1,16 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\bin\Debug\net8.0-windows\project2.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\bin\Debug\net8.0-windows\project2.deps.json
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\bin\Debug\net8.0-windows\project2.runtimeconfig.json
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\bin\Debug\net8.0-windows\project2.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\bin\Debug\net8.0-windows\project2.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\refint\project2.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\project2.genruntimeconfig.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\project2\obj\Debug\net8.0-windows\ref\project2.dll

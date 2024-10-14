@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\bin\Debug\Loops.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\bin\Debug\Loops.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\bin\Debug\Loops.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\obj\Debug\Loops.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders4\Loops\obj\Debug\Loops.pdb

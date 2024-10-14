@@ -1,0 +1,16 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\bin\Debug\net8.0-windows\Classes.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\bin\Debug\net8.0-windows\Classes.deps.json
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\bin\Debug\net8.0-windows\Classes.runtimeconfig.json
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\bin\Debug\net8.0-windows\Classes.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\bin\Debug\net8.0-windows\Classes.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\refint\Classes.dll
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\Classes.genruntimeconfig.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Classes\obj\Debug\net8.0-windows\ref\Classes.dll
