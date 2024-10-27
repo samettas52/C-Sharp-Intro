@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\bin\Debug\Constracters.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\bin\Debug\Constracters.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\bin\Debug\Constracters.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\obj\Debug\Constracters.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Constracters\obj\Debug\Constracters.pdb

@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\bin\Debug\classes2.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\bin\Debug\classes2.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\bin\Debug\classes2.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\obj\Debug\classes2.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\obj\Debug\classes2.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\obj\Debug\classes2.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\classes2\obj\Debug\classes2.pdb
