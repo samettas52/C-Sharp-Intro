@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
