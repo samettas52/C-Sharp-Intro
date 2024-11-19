@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\bin\Debug\Properties.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\bin\Debug\Properties.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\bin\Debug\Properties.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\obj\Debug\Properties.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\CSharpIntro\Interfaces\obj\Debug\Interfaces.pdb
